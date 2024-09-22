@@ -12,12 +12,13 @@ git push
 
 '''
 Installed the following packages:
-py -m pip install jupyterlab numpy pandas matplotlib seaborn scipy
+python3 -m pip install jupyterlab numpy pandas matplotlib seaborn scipy pyarrow
 '''
 
 ## Jupyter Notebooks Created
 
 '''
 FirstNotebook
-Test Drive
+TestDrive
+becca_eda
 '''
